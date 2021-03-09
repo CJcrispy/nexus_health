@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "721964531492",
+    "firebase_url": "https://blue-nexus-default-rtdb.firebaseio.com",
+    "project_id": "blue-nexus",
+    "storage_bucket": "blue-nexus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721964531492:android:40a393f9e8173605613db1",
+        "android_client_info": {
+          "package_name": "com.blue.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721964531492-9bf5j4gntpr056l5pfsf77bgg75tjgs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blue.nexus",
+            "certificate_hash": "2476536e826b0caaa52d399340d1a8020531f264"
+          }
+        },
+        {
+          "client_id": "721964531492-9kkmi0qgc8vog8tk0mj8kf1l6ao1enqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmw-8d0AonuqlQi9lJr-RBBQfxgcPCtIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721964531492-9kkmi0qgc8vog8tk0mj8kf1l6ao1enqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721964531492-fbl8ce6o0ishbsttvnsp00qh9d74qqkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blue.nexus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721964531492:android:5aa55fc056e0582f613db1",
+        "android_client_info": {
+          "package_name": "com.soulsync.nexus_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721964531492-ldo70pk61uklkliivgph810d27pksli0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soulsync.nexus_health",
+            "certificate_hash": "2476536e826b0caaa52d399340d1a8020531f264"
+          }
+        },
+        {
+          "client_id": "721964531492-9kkmi0qgc8vog8tk0mj8kf1l6ao1enqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmw-8d0AonuqlQi9lJr-RBBQfxgcPCtIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721964531492-9kkmi0qgc8vog8tk0mj8kf1l6ao1enqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721964531492-fbl8ce6o0ishbsttvnsp00qh9d74qqkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blue.nexus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
